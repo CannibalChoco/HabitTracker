@@ -1,5 +1,7 @@
 # HabitTracker
-Project 9 for Android Basics by Google Nanodegree, Data Storage.
+Project 9 for Android Basics by Google Nanodegree
+
+Data Storage
 
 Goal of the project:
 
